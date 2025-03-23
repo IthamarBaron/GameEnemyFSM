@@ -24,8 +24,9 @@ In **Roam** and **Search** states, the AI navigates using "AI Nodes" — a colle
 
 These nodes are structured like this in the Unity hierarchy:
 
-- `screenshotsExamples/ai_nodes_hierarchy.jpg`
-- `screenshotsExamples/ai_nodes_scene_view.jpg`
+![AI Nodes Hierarchy](screenshotsExamples/ai_nodes_hierarchy.jpg)
+
+![AI Nodes Scene View](screenshotsExamples/ai_nodes_scene_view.jpg)
 
 ### How Node Navigation Works (ROAM state)
 
@@ -85,5 +86,5 @@ The AI uses this method to simulate a search routine that looks deliberate and i
 ---
 
 **FOV Visualization:**
-- `screenshotsExamples/fov_debug_view.jpg`
+![FOV Debug View](screenshotsExamples/fov_debug_view.jpg)
 
