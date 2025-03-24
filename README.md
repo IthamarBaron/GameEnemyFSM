@@ -87,5 +87,5 @@ The AI uses this method to simulate a search routine that looks deliberate and i
 
 **More Visualization:**
 ![FOV Debug View](ScreenshotsExamples/fov_debug_view.jpg)
-![FOV Debug View](ScreenshotsExamples/ototmat.png)
+![otomat](ScreenshotsExamples/otomat.png)
 
