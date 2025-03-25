@@ -20,7 +20,7 @@ The project uses **NavMeshAgent** for pathfinding and a **custom FSM** (implemen
 
 ## AI Node Mechanics
 
-In **Roam** and **Search** states, the AI navigates using "AI Nodes" — a collection of transform positions scattered throughout the map.
+In the **Roam** state, the AI navigates using "AI Nodes" — a collection of transform positions scattered throughout the map.
 
 These nodes are structured like this in the Unity hierarchy:
 
